@@ -1,1 +1,2 @@
 # prophet-challenge
+Finished HW
